@@ -1,4 +1,4 @@
-# -Basic_chat_application
+# Basic_chat_application
 
 This project is an implementation of a Basic chat application using HTML, CSS & JavaScript. It has been developed by Jenish Kumar, a student of Techno International New Town, studying Information Technology.
 
